@@ -1,0 +1,183 @@
+,id,walkability_index,safety_score
+0,513d6ba5fdc9f03587004d8c,1.0,"3936    4.745286
+Name: rating, dtype: float64"
+1,513d699dfdc9f035870047bb,1.0,"4193    3.580331
+Name: rating, dtype: float64"
+2,513d6be2fdc9f03587004e1f,1.0,"4257    5.527851
+Name: rating, dtype: float64"
+3,513d6b5cfdc9f03587004cd7,1.0,"4543    5.937715
+Name: rating, dtype: float64"
+4,513d68e1fdc9f0358700451d,1.0,"4385    4.878282
+Name: rating, dtype: float64"
+5,513d6b07fdc9f03587004c05,1.0,"4761    5.538855
+Name: rating, dtype: float64"
+6,513d6bb1fdc9f03587004da8,1.0,"4781    3.53117
+Name: rating, dtype: float64"
+7,513d68dafdc9f03587004506,1.0,"4205    4.187924
+Name: rating, dtype: float64"
+8,513d6899fdc9f0358700441d,1.0,"4584    6.228193
+Name: rating, dtype: float64"
+9,513d69aafdc9f035870047f2,1.0,"4154    7.502545
+Name: rating, dtype: float64"
+10,513d9c2cfdc9f03587007c53,1.0,"28205    5.832863
+Name: rating, dtype: float64"
+11,513d9e9dfdc9f0358700847c,1.0,"28771    6.83935
+Name: rating, dtype: float64"
+12,513d7cb6fdc9f03587006fa7,1.0,"28733    5.969549
+Name: rating, dtype: float64"
+13,513d9b8ffdc9f03587007a54,1.0,"29236    4.307681
+Name: rating, dtype: float64"
+14,513d7ec1fdc9f03587007488,1.0,"29395    6.301308
+Name: rating, dtype: float64"
+15,513d7d99fdc9f0358700721f,1.0,"28433    4.535595
+Name: rating, dtype: float64"
+16,513d9dc1fdc9f035870081ad,1.0,"29929    4.823625
+Name: rating, dtype: float64"
+17,513d7d6dfdc9f035870071c4,1.0,"29242    3.109078
+Name: rating, dtype: float64"
+18,513d7b60fdc9f03587006b47,1.0,"30342    2.917717
+Name: rating, dtype: float64"
+19,513d7855fdc9f03587006120,1.0,"29720    3.819352
+Name: rating, dtype: float64"
+20,513d7d8afdc9f035870071ff,1.0,"30600    5.439172
+Name: rating, dtype: float64"
+21,513d7947fdc9f03587006453,1.0,"28392    7.625522
+Name: rating, dtype: float64"
+22,513d7c79fdc9f03587006ee7,1.0,"28878    3.39155
+Name: rating, dtype: float64"
+23,513d9c57fdc9f03587007cdf,1.0,"28623    4.862216
+Name: rating, dtype: float64"
+24,513d9ec8fdc9f03587008502,1.0,"29014    6.489696
+Name: rating, dtype: float64"
+25,513d7a72fdc9f0358700682c,1.0,"28708    4.771643
+Name: rating, dtype: float64"
+26,513d7a3dfdc9f0358700676d,1.0,"29344    5.570288
+Name: rating, dtype: float64"
+27,513d9bcdfdc9f03587007b16,1.0,"28611    6.674918
+Name: rating, dtype: float64"
+28,513d9d5bfdc9f03587008040,1.0,"30656    4.784885
+Name: rating, dtype: float64"
+29,513d9b1afdc9f035870078db,1.0,"28418    5.160058
+Name: rating, dtype: float64"
+30,513d9de8fdc9f03587008227,1.0,"30153    8.629076
+Name: rating, dtype: float64"
+31,513d7b4dfdc9f03587006b01,1.0,"28152    7.423326
+Name: rating, dtype: float64"
+32,513d7bf7fdc9f03587006d31,1.0,"31022    3.156882
+Name: rating, dtype: float64"
+33,513d9ee0fdc9f0358700855c,1.0,"29530    2.9674
+Name: rating, dtype: float64"
+34,513d9bbdfdc9f03587007aea,1.0,"28899    5.280154
+Name: rating, dtype: float64"
+35,513d7a18fdc9f035870066f8,1.0,"30987    5.914813
+Name: rating, dtype: float64"
+36,513d9b33fdc9f0358700792a,1.0,"28951    7.089666
+Name: rating, dtype: float64"
+37,513d7efefdc9f03587007508,1.0,"30808    3.308626
+Name: rating, dtype: float64"
+38,513d7b1efdc9f03587006a5e,1.0,"28789    7.802352
+Name: rating, dtype: float64"
+39,513d9decfdc9f03587008233,1.0,"28420    4.834025
+Name: rating, dtype: float64"
+40,513d9ce9fdc9f03587007ed9,1.0,"30916    5.8773
+Name: rating, dtype: float64"
+41,513d7959fdc9f03587006489,1.0,"30580    5.842162
+Name: rating, dtype: float64"
+42,513d9be4fdc9f03587007b6a,1.0,"31272    5.312595
+Name: rating, dtype: float64"
+43,513d7dacfdc9f03587007240,1.0,"28567    4.39268
+Name: rating, dtype: float64"
+44,513d78fefdc9f0358700635e,1.0,"30076    6.283
+Name: rating, dtype: float64"
+45,513d9a7ffdc9f035870076e5,1.0,"29931    6.000132
+Name: rating, dtype: float64"
+46,513d9f19fdc9f03587008627,1.0,"29564    4.830707
+Name: rating, dtype: float64"
+47,513d7ac1fdc9f03587006939,1.0,"28560    4.813665
+Name: rating, dtype: float64"
+48,513d9cebfdc9f03587007ede,1.0,"31330    4.971249
+Name: rating, dtype: float64"
+49,513d690efdc9f035870045bc,1.0,"4077    5.730715
+Name: rating, dtype: float64"
+50,513d9ac0fdc9f035870077bb,1.0,"30322    4.814319
+Name: rating, dtype: float64"
+51,513d69e5fdc9f035870048b1,1.0,"4656    5.87367
+Name: rating, dtype: float64"
+52,513d78ebfdc9f03587006322,1.0,"30795    5.919331
+Name: rating, dtype: float64"
+53,513d6beffdc9f03587004e42,1.0,"4754    4.744697
+Name: rating, dtype: float64"
+54,513d9acffdc9f035870077ef,1.0,"29295    3.44375
+Name: rating, dtype: float64"
+55,513d69cffdc9f0358700486f,1.0,"4513    6.063984
+Name: rating, dtype: float64"
+56,513d7e37fdc9f03587007368,1.0,"28288    3.816541
+Name: rating, dtype: float64"
+57,513d6b84fdc9f03587004d36,1.0,"4105    5.516843
+Name: rating, dtype: float64"
+58,513d78a6fdc9f0358700622f,1.0,"29120    3.788868
+Name: rating, dtype: float64"
+59,513d9b82fdc9f03587007a2c,1.0,"30267    6.586716
+Name: rating, dtype: float64"
+60,513d69abfdc9f035870047f3,1.0,"4517    6.875276
+Name: rating, dtype: float64"
+61,513d6b56fdc9f03587004cc6,1.0,"4189    5.647591
+Name: rating, dtype: float64"
+62,513d7c8ffdc9f03587006f31,1.0,"106325    4.071518
+Name: rating, dtype: float64"
+63,513d9f5bfdc9f03587008703,1.0,"28732    5.506815
+Name: rating, dtype: float64"
+64,513d9ed9fdc9f03587008541,1.0,"30435    6.157136
+Name: rating, dtype: float64"
+65,513d688efdc9f035870043f6,1.0,"4522    6.696168
+Name: rating, dtype: float64"
+66,513d7ed7fdc9f035870074b7,1.0,"28324    5.842318
+Name: rating, dtype: float64"
+67,513d9f35fdc9f03587008680,1.0,"30784    6.057423
+Name: rating, dtype: float64"
+68,513d79bcfdc9f035870065c3,1.0,"30110    6.014018
+Name: rating, dtype: float64"
+69,513d7c58fdc9f03587006e77,1.0,"29274    5.863295
+Name: rating, dtype: float64"
+70,513d7e6dfdc9f035870073db,1.0,"30944    2.954498
+Name: rating, dtype: float64"
+71,513d7a7efdc9f03587006854,1.0,"29337    3.996493
+Name: rating, dtype: float64"
+72,513d9b48fdc9f0358700797b,1.0,"29812    4.873476
+Name: rating, dtype: float64"
+73,513d7992fdc9f03587006541,1.0,"29712    6.07348
+Name: rating, dtype: float64"
+74,513d7d68fdc9f035870071bb,1.0,"29843    4.890077
+Name: rating, dtype: float64"
+75,513d79bafdc9f035870065c1,1.0,"29284    4.454001
+Name: rating, dtype: float64"
+76,513d6b9cfdc9f03587004d74,1.0,"4698    8.232553
+Name: rating, dtype: float64"
+77,513d7b6efdc9f03587006b70,1.0,"28620    4.445508
+Name: rating, dtype: float64"
+78,513d9f1ffdc9f0358700863b,1.0,"31091    6.60225
+Name: rating, dtype: float64"
+79,513d68a6fdc9f0358700444f,1.0,"4133    4.703035
+Name: rating, dtype: float64"
+80,513d6c33fdc9f03587004eee,1.0,"4838    5.347708
+Name: rating, dtype: float64"
+81,513d9bd0fdc9f03587007b23,1.0,"28240    4.515361
+Name: rating, dtype: float64"
+82,513d6a2ffdc9f035870049ad,1.0,"3971    5.4807
+Name: rating, dtype: float64"
+83,513d9e8cfdc9f03587008449,1.0,"28161    4.64
+Name: rating, dtype: float64"
+84,513d6afffdc9f03587004bed,1.0,"5120    5.958913
+Name: rating, dtype: float64"
+85,513d7cf9fdc9f03587007082,1.0,"28631    2.371343
+Name: rating, dtype: float64"
+86,513d7b63fdc9f03587006b51,1.0,"28583    6.984888
+Name: rating, dtype: float64"
+87,513d9d53fdc9f03587008022,1.0,"28374    4.529657
+Name: rating, dtype: float64"
+88,513d67f0fdc9f035870041d7,1.0,"4261    4.675733
+Name: rating, dtype: float64"
+89,513d7bf9fdc9f03587006d37,1.0,"29771    4.584088
+Name: rating, dtype: float64"
+90,513d9a84fdc9f035870076ee,1.0,"30519    7.322611
+Name: rating, dtype: float64"
